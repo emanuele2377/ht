@@ -53,46 +53,46 @@ header {
 
 .q{
     
-    border: 1px solid #4ea0ff;
+    border: 1px solid #9C72E3;
     padding: 1px;
     margin: 1px;
-    background-color: #4ea0ff;
+    background-color:#9C72E3;
     border-radius: 6px 6px 6px 6px;
 }
 
 .re{
     
-    border: 1px solid #4ea0ff;
+    border: 1px solid #63BEA9;
     padding: 1px;
     margin: 1px;
-    background-color: #4ea0ff;
+    background-color: #63BEA9;
     border-radius: 6px 6px 6px 6px;
 }
 
 .mo{
     
-    border: 1px solid #4ea0ff;
+    border: 1px solid #F39C34;
     padding: 1px;
     margin: 1px;
-    background-color: #4ea0ff;
+    background-color: #F39C34;
     border-radius: 6px 6px 6px 6px;
 }
 
 .web{
     
-    border: 1px solid #4ea0ff;
+    border: 1px solid #D563A0;
     padding: 1px;
     margin: 1px;
-    background-color: #4ea0ff;
+    background-color:#D563A0;
     border-radius: 6px 6px 6px 6px;
 }
 
 .sa{
     
-    border: 1px solid #4ea0ff;
+    border: 1px solid #B1C729;
     padding: 1px;
     margin: 1px;
-    background-color: #4ea0ff;
+    background-color: #B1C729;
     border-radius: 6px 6px 6px 6px;
 }
 
@@ -104,3 +104,9 @@ header {
     background-color: #4ea0ff;
     border-radius: 3px 3px 3px 3px;
 }
+
+.stile {
+      font-family: Verdana,  Tahoma, sans-serif;
+}
+
+
