@@ -14,9 +14,7 @@ header {
     
 }
 
-main {
-     
-}
+
 
 #logo {
     height: 50px;
@@ -118,4 +116,17 @@ main {
       font-family: Verdana,  Tahoma, sans-serif;
 }
 
+.check {
+    background-color: white;
+    border-radius: 100%;
+    border: solid 3px #3de30f;
+    color: #3de30f;
+      
+}
 
+.cros {
+    background-color: white;
+    border-radius: 100%;
+    border: solid 3px red;
+    color: red;
+}
